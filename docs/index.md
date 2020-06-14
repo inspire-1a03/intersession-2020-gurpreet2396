@@ -1,80 +1,27 @@
-# Add your page title and name here
-<!--
-Welcome to your project page for Electronics for the Rest of Us. You'll use this page to describe and showcase your work throughout the module. 
-A place for each deliverable has been created below for you in this markdown document. 
-Note that comments (such as this) will not appear in the final markdown document (which you can view with the "Preview" button).
--->
-
+# Exploring Electronics - Gurpreet R.
 
 ## Day 1: Reflection
-<!--
-In this section, provide a ~250 word reflection on your first day of the module, and discuss why you're interested in this module and what you hope to take away from it.
 
-You're also asked to insert a photo that represents your accomplishments on your first day. 
-- Take a photo of you working or one of your circuits and upload it to the /docs/images/ folder of this repository. 
-- Then, insert your photo into your document by modifying the markdown example that has been inserted below.
--->
+After completing the first day of this module and getting a chance to go through the varies exercises, I am excited to see what I can learn through the week. I did not have much expectations for this module, so after seeing the kit and learning about the assignments, it seems interesting. I had chosen this module because the name was intriguing. To learn more when it comes to electronics, I thought it would be good to get some skills and learn some new tools that could be beneficial in the future. Also I am more of a kinesthetic learner, so it was nice to know it’s more of a hands on course. Especially during the pandemic, it is not enjoyable to just be sitting on the computer listening to lectures and do readings, so that was also an factor. I have learned about coding in one of my courses before and I really loved it, so when I saw there was coding in this, it was another reason to chose it. I hope to learn more about coding and get familiar with circuits. As well, be able to create small inventions of my own. Also, the skills that could be learned with the programs/software’s, seem to be ones that would be useful in the future, since everything is become more digital. Hoping to have fun in this mini course! 
 
-<!--
-Inserting an image takes the form: 
-![image alt text](url/to/photo "Logo Title Text")
-See the following webpage for more information: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#images
-Replace the elements below to insert your picture.
---> 
-![Markdown logo](images/markdown.png "This is the Markdown logo!")
+![Day 1 Sketch Pic](images/day1.jpg "1st Day results!")
 
 ## Day 2: Results
-<!--
-Upload your fully-commented Arduino sketch from your final Day 2 build task--a thermometer connected to an RDB LED--into your GitHub repository.
-Provide a short (~150 words) summary of your work on this circuit:
-- How does your device work?
-- What was challenging? 
-- What worked? What didn't? 
-- Be sure to link to your code (in your GitHub repository) in the text of your response.
--->
+Day 2 Sketch: https://github.com/gurpreet2396/Day-2-Sketch.git
+
+Doing the varies exercises for Day 2 was fun. It was great getting to experiment with RBG LED thermometer. There were some challenges, such as putting the wires in the correct places and making sure all wires were stable enough to work. For example, with the colour order I would have issues with the colour order, but then I realized that one of my wires was in the wrong position which caused the problem. After making sure of those things, my device worked well! The temperature was very accurate which was great to see.
 
 ## Arduino build-off results
-<!--
-Upload your fully-commented Arduino sketch from the final product of your Arduino build-off into the top-level of your module GitHub repository.
-In ~300 words, provide a final device description and product pitch: 
-- What does it do? Use a table (created in markdown) to list and describe the features. You can use the template provided below. 
-- Describe briefly how it works.
-- How could it be used in everyday life (or maybe just in rare cases)? 
-- Be sure to link to your code (in your GitHub repository) in the text of your response.
-- Include a snippet of code using the ``` ``` characters to display the code properly. 
-Finally, record a short (30 second) video of a 'product pitch' for your device. 
-- Upload the video to Youtube, and use the sample code below to embed your video.
--->
 
+Final Product Sketch: https://github.com/gurpreet2396/Final-Product-Sketch.git
 
-<!--
-Below is a general markdown table template. 
-You can find more information at these links: 
-- https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#tables
+![Table of Features](images/table.jpg "Table of Features!")
 
--->
-| Feature | Description | Other Notes |
-|---------|-------------|-------------|
-|         |             |             |
-|         |             |             |
-|         |             |             |
-|         |             |             |
+This device I had put together, is a small device to help kids learn how to tell temperature and also give kids the opportunity to create different melodies. By adding the code and setting up the equipment, the device will start. 
 
+![Set-up of Ardunino Board](images/setup.jpg "Set-up for the Final Product!")
 
-<!--
-Below is an example of embedding a YouTube video in a markdown document for use in GitHub pages. 
-Note that this video won't show when previewing the document in GitHub--it only works on the GitHub pages webpage. 
-- Once your YouTube video is uploaded, right click and select ```<> Copy embed code```. 
-- You can paste this code directly into your markdown document. 
-- Note that you may want to adjust the width and height parameters to make it fit well in your webpage
--->
-
-<iframe width="789" height="444" src="https://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+There is RGB led light that changes colours every 3 seconds to bring attention and some fun to the device. There are also two other led lights attached to the breadboard, they are both attached to another element on the board. The green led light is connected to the thermometer, where it is functioned to turn on when it is “too hot.” The temperature is able to be adjusted to determined what is considered to be “too hot” on the device. The blue led light is connected to the buzzer. It lights up when the buzzer plays a note. A melody can be added and can also be controlled by the button. It is meant to be educational to help kids learn how to understand temperature. They can play around with the thermometer and see how the temperature changes. Also playing around with lights and making new melody. They get the chance to express themselves through music and coding. 
 
 ## Final reflection & summary
-<!--
-In ~300 words:
-- Summarize your experience in this module. What you learned, what you liked, what you found challenging.
-- Reflect upon your learning and its relevance in your life.
--->
+  It was a fun experience doing this module. I have learned some new tools that I could use later on and it was enjoyable creating different codes. Opened up new ideas and learning opportunities. I have learned coding before from a different software but haven’t done it with an Arduino board. It did make it a bit easier when it came to putting in codes and adjusting the orders. Getting used to the Solderless breadboard was a bit confusing at first but after playing around with it more, I found it very useful. I have heard Github but never really used it. It took a few minutes to get used to it and see how things work. It is a program I will be trying out more. Doing the exercises were great, it was very rewarding once I got the hoped results. What I have found challenging was the final project. Finding a way to incorporate the different elements and adding the codes in, was hard. I had restarted at least 8 times, ended up being very frustrated. Though in the end, I was content with the results. Despite that only challenge, everything else was great and useful. Watching YouTube videoss on different ways people use the Arduino Board, there are a lot of ways to incorporate this in everyday life. I was thinking about purchasing an Arduino board and the other equipment from this package as well, other thinks like sound sensors. Thinking of “installing” sensors around the house, experiment with light and power lamps. There can be lots of possibilities and I am excited to see what I can create when I play with this in my free time!
